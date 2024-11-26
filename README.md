@@ -27,7 +27,7 @@ Atualmente, estou me dedicando a aprender e desenvolver projetos enquanto aprimo
 
 <p align = "center">
 <img src = "https://github-readme-stats-rongronggg9.vercel.app/api?username=GuiTrombini06&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" width = 400>
-<img  src="https://github-readme-stats-GuiTrombini06.vercel.app/api/top-langs/?username=GuiTrombini06&hide=html,cmake,css,scss,powershell,assembly,procfile,shell,less,jupyter%20notebook&theme=chartreuse-dark&langs_count=11&layout=compact&hide_border=true" width = 400>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiTrombini06&layout=compact&theme=chartreuse-dark&hide_border=true" width = 400 >  
 </p>
 
 ##
